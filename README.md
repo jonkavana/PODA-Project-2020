@@ -1,11 +1,11 @@
 # PODA-Project-2020
 This is the main space for the analysis of the numpy.random package  
 <br>
-There are a number of components that need to be considered when reviewing this project.   
+There are a number of components that need to be considered when reviewing this project. 
 The main area of focus will be the numpy.random package, as laid out in the pdf assignment.   
 Within this, ther are some explicit headins that need to be reviewed, in order to effectivley undertake the assignment.   
 <br>  
-**Area of Discussion**
+**Area of Discussion**  
 They are: 
 - What is the overall purpose of the package - Numpy.Random
 - Explain the use of the "Simple Random Data" as well as "Permutations" functions
@@ -31,30 +31,31 @@ Project Management  Overview of project:
 - Reference table, as per the GMIT guidelines.
 
 <br>  
-Input From Project Video
-- Ensure that all of the analysis completed in the project has substantial level of data in place, and where possible, use plots to provide pictoral detail of what the package can accomplish
+Input From Project Video  
+- Ensure that all of the analysis completed in the project has substantial level of data in place, and where possible, use plots to provide pictoral detail of what the package can accomplish  
 - 
 <br>  
 
 Reference Material :  
 
 <br>  
-Work Breakdown Structure:\
-Differentiate between the aspects of the documentation, dividing the project into manageable tasks, as per the following.\
-- Inestigate and describe, at a high level, what the difference between Generator and Bit Generator are. \
-    - What has been the main change in packages between the old and the new instance of Numpy\
-- What is the structure of Simple Random Data\
+Work Breakdown Structure:  
+Differentiate between the aspects of the documentation, dividing the project into manageable tasks, as per the following.  
+
+- Inestigate and describe, at a high level, what the difference between Generator and Bit Generator are.
+    - What has been the main change in packages between the old and the new instance of Numpy  
+- What is the structure of Simple Random Data  
     - Integers
     - random
     - Choice
     - bytes
-- What is the structure of Permutations\
+- What is the structure of Permutations
     - Shuffle
     - Permutation
-- Compare and contrast the Permutations function with the Simple Random Data - keep to a high level. 
-- Review the concept of Distributions, bearing in mind that a minimum of five need to be explained.
-- Distributioun Types to be selected
-- Concept of Seeds in Pseudorandom numbers
-- Contrast of pseudo random numbers to that of random data as outlined at start of text. 
+- Compare and contrast the Permutations function with the Simple Random Data - keep to a high level.   
+- Review the concept of Distributions, bearing in mind that a minimum of five need to be explained.  
+- Distributioun Types to be selected  
+- Concept of Seeds in Pseudorandom numbers  
+- Contrast of pseudo random numbers to that of random data as outlined at start of text.   
 
-- Conclusion\
+- Conclusion  
