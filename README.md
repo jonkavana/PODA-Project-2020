@@ -35,20 +35,20 @@ Input From Project Video
 - Ensure that all of the analysis completed in the project has substantial level of data in place, and where possible, use plots to provide pictoral detail of what the package can accomplish
 - 
 <br>  
-### Reference:
 
+Reference Material :  
 
 <br>  
-Work Breakdown Structure:
-Differentiate between the aspects of the documentation, dividing the project into manageable tasks, as per the following.
-- Inestigate and describe, at a high level, what the difference between Generator and Bit Generator are. 
-    - What has been the main change in packages between the old and the new instance of Numpy
-- What is the structure of Simple Random Data
+Work Breakdown Structure:\
+Differentiate between the aspects of the documentation, dividing the project into manageable tasks, as per the following.\
+- Inestigate and describe, at a high level, what the difference between Generator and Bit Generator are. \
+    - What has been the main change in packages between the old and the new instance of Numpy\
+- What is the structure of Simple Random Data\
     - Integers
     - random
     - Choice
     - bytes
-- What is the structure of Permutations
+- What is the structure of Permutations\
     - Shuffle
     - Permutation
 - Compare and contrast the Permutations function with the Simple Random Data - keep to a high level. 
@@ -57,4 +57,4 @@ Differentiate between the aspects of the documentation, dividing the project int
 - Concept of Seeds in Pseudorandom numbers
 - Contrast of pseudo random numbers to that of random data as outlined at start of text. 
 
-- Conclusion
+- Conclusion\
