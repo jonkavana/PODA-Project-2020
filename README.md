@@ -13,15 +13,17 @@ They are:
 - Explain the use of seeds in generating pseudorandom numbers.  
 <br>  
 <br>  
-As part of this project, will require a number of pieces of equipment,  as well as access to software in order to undertake it approproately.   
-These are, as follows, whilst not being limited to them:   
+As part of this project, will require a number of pieces of equipment,  as well as access to software in order to undertake it approproately.     
+These are, as follows, whilst not being limited to them:  
+
  - Laptop 
- - Annaconda Python Package
+ - Anaconda Python Package
  - Numpy Package Imported
  - MatPlotLib Package
-
+  
 <br>  
-Project Management  Overview of project: 
+Project Management  Overview of project:  
+
 <br>   
 - Assess how to set up a repository that will allow for Jupyter Notebook to be tracked.
 - Provide work breakdown Structure of the "Area of Discussion Section"
@@ -30,8 +32,9 @@ Project Management  Overview of project:
 - Further reaserch to expand on the core principles as laid out on the numpy.org site.
 - Reference table, as per the GMIT guidelines.
 
+
 <br>  
-Input From Project Video  
+Input From Project Video    
 - Ensure that all of the analysis completed in the project has substantial level of data in place, and where possible, use plots to provide pictoral detail of what the package can accomplish  
 - 
 <br>  
